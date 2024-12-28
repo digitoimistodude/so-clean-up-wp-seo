@@ -1,7 +1,5 @@
 # Hide SEO Bloat
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-clean-up-wp-seo)](https://wordpress.org/plugins/so-clean-up-wp-seo) [![WP compatibility](https://plugintests.com/plugins/wporg/so-clean-up-wp-seo/wp-badge.svg)](https://plugintests.com/plugins/wporg/so-clean-up-wp-seo/latest) [![PHP compatibility](https://plugintests.com/plugins/so-clean-up-wp-seo/php-badge.svg)](https://plugintests.com/plugins/so-clean-up-wp-seo/latest)
-
 ###### Last updated on December 17, 2024
 ###### Development version 4.0.2
 ###### requires at least WordPress 4.9
@@ -9,7 +7,9 @@
 ###### Author: [Pieter Bos](https://github.com/senlin)
 ###### Contributor: [Andy Fragen](https://github.com/afragen)
 
-No longer in active development, mainly triggered by Matt Mullenweg's [latest pineapple pizza checkbox requirement](https://wptavern.com/wordpress-org-login-introduces-mandatory-pineapple-pizza-checkbox) for logging into WordPress.org.
+As I have less time to spend time on plugins, especially one where it is a constant cat and mouse game, I have decided to pull the plug (pun intended) on this one, which costs me the most time of all plugins that I have under my name.
+
+Obviously the recent actions of Matt Mullenweg [example](https://wptavern.com/wordpress-org-login-introduces-mandatory-pineapple-pizza-checkbox) do not help to keep all my eggs in one basket and I have already started to venture out to other platforms.
 
 Free addon for the Yoast SEO plugin to hide the bloat it adds to your WordPress backend. See [changelog](https://wordpress.org/plugins/so-clean-up-wp-seo/#developers) for what's new in this release.
 
