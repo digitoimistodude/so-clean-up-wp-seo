@@ -11,9 +11,9 @@ As I have less time to spend time on plugins, especially one where it is a const
 
 Obviously the recent actions of Matt Mullenweg [example](https://wptavern.com/wordpress-org-login-introduces-mandatory-pineapple-pizza-checkbox) do not help to keep all my eggs in one basket and I have already started to venture out to other platforms.
 
-Free addon for the Yoast SEO plugin to hide the bloat it adds to your WordPress backend. See [changelog](https://wordpress.org/plugins/so-clean-up-wp-seo/#developers) for what's new in this release.
-
 ## Description
+
+Free addon for the Yoast SEO plugin to hide the bloat it adds to your WordPress backend. See [changelog](https://wordpress.org/plugins/so-clean-up-wp-seo/#developers) for what's new in this release.
 
 Hides (sidebar) ads and premium version buttons of Yoast SEO from their settings pages and your website's dashboard (and frontend).
 
