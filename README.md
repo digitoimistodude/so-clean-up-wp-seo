@@ -1,5 +1,26 @@
 # Hide SEO Bloat
 
+## Use via composer.json
+
+Add the following to your `composer.json` file repositories section:
+
+```json
+"repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/digitoimistodude/so-clean-up-wp-seo"
+    }
+]
+```
+
+Then add the following to your `composer.json` file require section:
+
+```json
+"require": {
+    "digitoimistodude/so-clean-up-wp-seo": "dev-develop"
+}
+```
+
 ###### Last updated on December 17, 2024
 ###### Development version 4.0.2
 ###### requires at least WordPress 4.9
