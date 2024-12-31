@@ -6,10 +6,10 @@ Add the following to your `composer.json` file repositories section:
 
 ```json
 "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/digitoimistodude/so-clean-up-wp-seo"
-    }
+	{
+		"type": "vcs",
+		"url": "https://github.com/digitoimistodude/so-clean-up-wp-seo"
+	}
 ]
 ```
 
@@ -17,7 +17,7 @@ Then add the following to your `composer.json` file require section:
 
 ```json
 "require": {
-    "digitoimistodude/so-clean-up-wp-seo": "dev-develop"
+	"digitoimistodude/so-clean-up-wp-seo": "dev-develop"
 }
 ```
 
